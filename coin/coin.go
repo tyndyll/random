@@ -5,7 +5,9 @@ import (
 )
 
 const (
+	// Head represents the Head side of a coin
 	Head = iota
+	// Tail represents the Tail side of a coin
 	Tail = iota
 )
 

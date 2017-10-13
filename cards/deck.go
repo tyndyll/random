@@ -11,14 +11,6 @@ const (
 	DeckSize = 52
 	// SuitSize is the numer of cards in the suit
 	SuitSize = 13
-	// Ace is the numeric value of the Ace card
-	Ace = 1
-	// Jack is the numeric value of the Jack card
-	Jack = 11
-	// Queen is the numeric value of the Queen card
-	Queen = 12
-	// King is the numeric value of the King card
-	King = 13
 )
 
 func init() {
